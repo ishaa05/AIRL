@@ -75,4 +75,4 @@ The notebook installs the following:
 
 ## Results  
 - **Q1:** Pending.  
-- **Q2:** Successfully demonstrated text-driven image segmentation pipeline using CLIPSeg + SAM2.  
+- **Q2:** Successfully demonstrated text-driven image segmentation pipeline using GroundingDINO + SAM2.  
