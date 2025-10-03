@@ -96,5 +96,5 @@ The notebook installs the following:
 ---
 
 ## Results  
-- **Q1:** Pending.  
+- **Q1:** Achieved 90.95% test accuracy on CIFAR-10 using the final configuration. 
 - **Q2:** Successfully demonstrated text-driven image segmentation pipeline using GroundingDINO + SAM2.  
